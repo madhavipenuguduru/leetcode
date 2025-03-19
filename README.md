@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhavipenuguduru/leetcode/tree/master/0001-two-sum) |
 | [2478-longest-nice-subarray](https://github.com/madhavipenuguduru/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Bit Manipulation
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/madhavipenuguduru/leetcode/tree/master/2478-longest-nice-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/madhavipenuguduru/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
