@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/madhavipenuguduru/leetcode/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/madhavipenuguduru/leetcode/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -24,8 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhavipenuguduru/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/madhavipenuguduru/leetcode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/madhavipenuguduru/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/madhavipenuguduru/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
