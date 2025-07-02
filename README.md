@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/madhavipenuguduru/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/madhavipenuguduru/leetcode/tree/master/0013-roman-to-integer) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/madhavipenuguduru/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/madhavipenuguduru/leetcode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhavipenuguduru/leetcode/tree/master/0001-two-sum) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/madhavipenuguduru/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2478-longest-nice-subarray](https://github.com/madhavipenuguduru/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Bit Manipulation
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/madhavipenuguduru/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/madhavipenuguduru/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
