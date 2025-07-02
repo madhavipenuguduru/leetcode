@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/madhavipenuguduru/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/madhavipenuguduru/leetcode/tree/master/0013-roman-to-integer) |
+| [1205-defanging-an-ip-address](https://github.com/madhavipenuguduru/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhavipenuguduru/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/madhavipenuguduru/leetcode/tree/master/3379-score-of-a-string) |
 ## Array
