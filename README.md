@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhavipenuguduru/leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/madhavipenuguduru/leetcode/tree/master/0088-merge-sorted-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhavipenuguduru/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/madhavipenuguduru/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2478-longest-nice-subarray](https://github.com/madhavipenuguduru/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhavipenuguduru/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/madhavipenuguduru/leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/madhavipenuguduru/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
