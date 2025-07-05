@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/madhavipenuguduru/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/madhavipenuguduru/leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/madhavipenuguduru/leetcode/tree/master/0202-happy-number) |
 | [0782-jewels-and-stones](https://github.com/madhavipenuguduru/leetcode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/madhavipenuguduru/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/madhavipenuguduru/leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/madhavipenuguduru/leetcode/tree/master/0202-happy-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/madhavipenuguduru/leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/madhavipenuguduru/leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
