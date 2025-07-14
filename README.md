@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/madhavipenuguduru/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/madhavipenuguduru/leetcode/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/madhavipenuguduru/leetcode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/madhavipenuguduru/leetcode/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/madhavipenuguduru/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhavipenuguduru/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/madhavipenuguduru/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhavipenuguduru/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/madhavipenuguduru/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
